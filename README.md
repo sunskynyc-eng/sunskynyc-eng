@@ -1,16 +1,21 @@
-## Hi there 👋
+## Data Engineer | AI Engineering
 
-<!--
-**sunskynyc-eng/sunskynyc-eng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Data engineer with experience building large-scale pipelines and analytics infrastructure.
 
-Here are some ideas to get you started:
+## Core Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Data Engineering:** dbt · Airflow · Python · SQL · Snowflake · BigQuery
+**Cloud:** GCP · AWS
+**AI/LLM:** LLM integration · Natural language interfaces · Gemini AI
+**Data Quality:** Monte Carlo · automated alerting · parallel validation
+
+## What I Build
+
+- Data pipelines at scale
+- dbt architectures from scratch
+- ETL systems with data quality standards
+- LLM-powered analytics tools
+
+## Current Focus
+
+Data engineering applied to AI and LLM systems.
