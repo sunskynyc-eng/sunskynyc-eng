@@ -5,8 +5,11 @@ Data engineer with experience building large-scale pipelines and analytics infra
 ## Core Stack
 
 **Data Engineering:** dbt · Airflow · Python · SQL · Snowflake · BigQuery
+
 **Cloud:** GCP · AWS
+
 **AI/LLM:** LLM integration · Natural language interfaces · Gemini AI
+
 **Data Quality:** Monte Carlo · automated alerting · parallel validation
 
 ## What I Build
